@@ -1,5 +1,5 @@
-a=int(input('Nhap so nguyen:'))
+a=int(input('Enter integer:'))
 if a%2==0:
-    print(a,"la so chan!")
+    print(a,"is an even number!")
 else:
-    print(a,'la so le!')
+    print(a,'is a odd number!')
