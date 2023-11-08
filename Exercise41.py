@@ -16,7 +16,7 @@ if note[0] in ('A','B','C','D','E','F','G') :
         elif note[0]=='G' :
             f=392.00    
         F=f*(2**(4-int(note[1])))
-        print(f'The frequency of {note} is {F}')   
+        print(f'The frequency of {note}Hz is {F}')   
     else :
         print('That is the invalid parameter')     
 else:
