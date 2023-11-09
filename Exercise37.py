@@ -1,4 +1,4 @@
-sides=int(input("Enter the number of sides: "))
+sides=int(input("Enter the number of sides:"))
 if sides == 3:
     a = "Triangle"
 elif sides == 4:
@@ -17,5 +17,5 @@ elif sides == 10:
     a = "Decagon"
 else:
     a = "Invalid number of sides"
-print(f"The shape with {sides} sides is {a}")
+print(f"The shape with {sides} sides is: {a}")
 
