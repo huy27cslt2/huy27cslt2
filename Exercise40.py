@@ -7,4 +7,4 @@ if (a+b>c) and (a+c>b) and (b+c>a) and (a>0) and (b>0) and (c>0):
     elif (a==b) or (a==c) or (b==c):
         print('Scalene triangle')
     else:
-        print('Isosceles striangle')
+        print('Isosceles triangle')
