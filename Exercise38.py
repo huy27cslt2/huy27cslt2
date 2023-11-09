@@ -3,7 +3,7 @@ if a in {'January','March','May','July','August','October','December'}:
     print (a,"has 31 days")
 elif a=="Febuary":
     print(a,"has 28 or 29 days")
-elif a in {'Aprill','June','November','September'}:
+elif a in {'April','June','November','September'}:
     print(a,'has 30 days')
 else:
     print('Error!')
