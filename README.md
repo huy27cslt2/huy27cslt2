@@ -1,4 +1,6 @@
-### Hi there 👋
+### nhóm 10  cslt2 Lê Anh Quân 46
+Bùi Quang	Huy 27
+Hà Thị Kiều	Oanh 43
 
 <!--
 **huy27cslt2/huy27cslt2** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
